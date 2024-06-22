@@ -14,6 +14,7 @@ const config: Config = {
       xl: '1440px',
     },
     colors: {
+      'red': '#00ff00',
       'blue': '#1fb6ff',
       'purple': '#7e5bef',
       'pink': '#ff49db',
